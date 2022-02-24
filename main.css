@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.first-br {
+  display: none;
+}
+.second-br {
+  display: none;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  color: #e22f8f;
+}
+
+/* Background image  */
+
+body {
+  background-image: url(space-background.png);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* fixing the container */
+
+.container {
+  width: 600px;
+  margin: 100px auto;
+}
+
+/* hero section  */
+
+.hero-image {
+  border-radius: 20px 20px 0px 0px;
+}
+
+
+/* intro-section */
+.first-heading{
+  text-align: center;
+  
+}
+
+.intro{
+ background-color: #fff;
+ margin-top: -4px;
+}
+
+
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+                         /* fixing the asides */
+aside.bottle{
+  float: right;
+}
+
+.aside-two{
+  float: left;
+   margin-left: 30px;
+   margin-top: 40px;
+}
+
+                               /* fixing the paragraphs */
+
+
+.first-para{
+    font-size: 17px;
+    line-height: 1.6;
+    display: block;
+    margin-bottom: 40px;
+    margin-top: 30px;
+  padding-left: 20px;
+
+}
+
+
+.second-para{
+  font-size: 17px;
+  line-height: 1.3;
+   display: block;
+   padding-left: 20px;
+    padding-bottom: 40px;
+   
+}
+.second-heading{
+  text-align: center;
+  line-height: 2.1;
+ 
+}
+.first-heading{
+   line-height: 3;
+}
+
+          /* fixing the contact area */
+.contact{
+  background-color: #ddd;
+}
+address{
+margin-top: 130px;
+font-family: 'Roboto', sans-serif;
+}
+.email{
+    padding-bottom: 40px;
+  font-family: 'Roboto', sans-serif;
+}

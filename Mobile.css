@@ -1,0 +1,77 @@
+*{
+    margin:0; padding: 0; box-sizing: border-box;
+}
+
+
+.hero-image{
+    width: 100%;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+/* fixing the headings */
+
+.first-heading{
+    font-family: 'Lobster', cursive;
+    color: #e22f8f;
+    text-align: center;
+    font-size: 35px;
+    line-height: 1.2;
+}
+.bottle{
+    text-align: center;
+}
+
+.second-heading{
+    font-family: 'Lobster', cursive;
+    color: #e22f8f;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.2;
+    margin-top: 10px;
+}
+
+.aside-two{
+    text-align: center;
+}
+
+.contact{
+    background-color: #ddd;
+}
+iframe{
+ width: 100%
+}
+.intro{
+    background-color: #fff;
+}
+
+
+/* fixing the paragraphs */
+
+.first-para{
+    padding: 20px;
+    line-height: 1.6;
+}
+.second-para{
+    padding: 20px; 
+    line-height:1.6;
+}
+
+
+/* contact area */
+
+.time-bar{
+    font-size: 17px;
+padding-left: 30px;
+
+}
+address{
+    padding: 30px;
+    font-size: 18px ;
+    font-family: 'Roboto', sans-serif;
+}
+.email{
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
