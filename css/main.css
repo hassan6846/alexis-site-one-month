@@ -18,7 +18,7 @@ h1 {
 /* Background image  */
 
 body {
-  background-image: url(space-background.png);
+  background-image: url("../images/space-background.png");
   background-attachment: fixed;
   background-size: cover;
 }
